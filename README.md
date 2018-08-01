@@ -51,12 +51,12 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 
 ---
 
-### Day 0: August 00, 2018
+### Day 1: August 01, 2018
 
-#### Person Name
+#### Dennis Dmello
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| x | x | x |
+| Did Basics of Java | x | x |
 
 ---
 
