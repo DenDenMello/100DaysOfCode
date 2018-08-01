@@ -56,7 +56,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 #### Dennis Dmello
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| Did Basics of Java | x | x |
+| Started Basics of Java | x | x |
 
 ---
 
