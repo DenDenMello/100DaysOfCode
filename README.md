@@ -33,7 +33,7 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
      *CSS
      *JavaScript
    * Practice android development
-<details>    
+</details>    
  
  <details>
  <summary>Dennis D'Mello (@DenDeMello) </summary>
@@ -41,7 +41,7 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
    * Learn Core Java
    * Learn Python
    * pick-up a new Language
-<details>    
+</details>    
 
 ## Challenge
 
