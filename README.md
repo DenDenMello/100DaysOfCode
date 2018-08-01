@@ -39,7 +39,7 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
  <summary>Dennis D'Mello (@DenDeMello) </summary>
  * Goals:
    * Learn Core Java
-   * Learn Python
+   * Re-Learn Python
    * pick-up a new Language
 </details>    
 
