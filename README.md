@@ -34,6 +34,14 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
      *JavaScript
    * Practice android development
 <details>    
+ 
+ <details>
+ <summary>Dennis D'Mello (@DenDeMello) </summary>
+ * Goals:
+   * Learn Core Java
+   * Learn Python
+   * pick-up a new Language
+<details>    
 
 ## Challenge
 
